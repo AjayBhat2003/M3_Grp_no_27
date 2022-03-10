@@ -50,7 +50,9 @@
 |HLR4|
 |LLR4|All LED On in Anti-clockwise direction|
 
-## High Level Requirement-2
+
+# High level requirement-2
+|ID|Requiremnt|
 |---|---|
 |HLR1| Switch pressed one time display window status|
 |HLR2| Switch is pressed 2 time display alaram status|
