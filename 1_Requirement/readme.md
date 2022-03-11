@@ -29,49 +29,31 @@
 
 ### *4. Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)*
 
-## Requirement
+## Requirements
 
-# High Level Requirement -1
+# High Level Requirements
 
-|ID|High level Requirement|
-|---|---|
-|HLR1| Switch pressed one time door will Lock|
-|HLR2| Switch is pressed 2 time door will unlock|
-|HLR3| Switch is pressed 3 time alaram activte/deactivate|
-|HLR4| Switch is pressed 4 time approach light|
+|Id|High Level Requirements|
+|---|-----------------------|
+|HLR1|System should br provided with wireless locking and unlocking system|
+|HL02|System should be provided with wireless alaram activation and deactivation|
+|HL03|System should be provided with Approach Light|
+|HL04|System shall be made as Hack Proof|
 
-## Low level Requirement
-|ID|LOW LEVEL REQUIREMENT|
-|---|---|
-|HLR1|
-|LLR1|LED  should On at same time |
-|HLR2|
-|LLR2|All LED should off at same time|
-|HLR3|
-|LLR3|All LED On in clockwise direction|
-|HLR4|
-|LLR4|All LED On in Anti-clockwise direction|
+# Low Level Requirements
+
+|Id|Low Level Requirements for HL1|ID|Low Level Requirements HL2|
+|---|-----------------------|--|----------------------------|
+|LLR1.1|As the button pressed all LED'S should get turned on|LLR2.1|As the button pressed all LED'S should get turned off|
+|LLR1.2|As the button pressed all LED'S should get turned on in clockwise manner|LLR2.2|LED'S should glow in a manner Green-->Orange-->Red-->Blue|
+
+|Id|Low Level Requirements for HL3|ID|Low Level Requirements HL4|
+|---|-----------------------|--|----------------------------|
+|LLR3.1|As the button pressed all LED'S should get turned on in Anticlockwise manner|LLR4.1|LED'S should glow in a manner Green-->Blue-->Red-->Orange|
+|LLR3.2|System should be Encrypted with masked data|LLR4.2|System should provide Random Data each time to ensure more security |
 
 
-# High level requirement-2
-|ID|Requiremnt|
-|---|---|
-|HLR1| Switch pressed one time display window status|
-|HLR2| Switch is pressed 2 time display alaram status|
-|HLR3| Switch is pressed 3 time car battery info status|
-|HLR4| Switch is pressed 4 car door info status |
 
-## Low level Requirement
-|ID|LOW LEVEL REQUIREMENT|
-|---|---|
-|HLR1|
-|LLR1|LED  should On at same time |
-|HLR2|
-|LLR2|All LED should off at same time|
-|HLR3|
-|LLR3|All LED On in clockwise direction|
-|HLR4|
-|LLR4|All LED On in Anti-clockwise direction|
 
 
 
