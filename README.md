@@ -1,8 +1,7 @@
 # M3_Grp_no_27
 ## RKE System
-### **This project describes about the Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.** 
 
-### **The term remote keyless system (RKS), also called keyless entry or remote central locking, refers to a lock that uses an electronic remote control as a key which is activated by a handheld device or automatically**
+### **This project describes about the Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.** 
 
 ### *Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.* 
 
@@ -17,4 +16,8 @@
 
 ### A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. 
 
-
+# Features-
+### *It shall print window status of the car when blue switch is pressed once*
+### *It shall print alarm status of the car when blue switch is pressed twice*
+### *It shall print car battery information when the blue switch is pressed thrice times*
+### *It shall print door status of the car when the blue switch is pressed four times*
