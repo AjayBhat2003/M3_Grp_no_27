@@ -1,8 +1,8 @@
-# *Objective-*
+# Objective
 
 ### *Keyless entry systems are used to remotely lock, unlock and start your car's engine using RF signals.*
 
-# *Description-*
+# Description
 
 ### **This project describes about the Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.** 
 
@@ -16,10 +16,10 @@
 ### *2.	 RKE operates by broadcasting radio waves on a particular frequency unidirectionally.* 
 ### *3.	RKE systems implement encryption and rolling code algorithms to prevent car thieves from intercepting and spoofing the telegrams.* 
 
-# *Abstract*
+# Abstract
 ### *RKE systems for cars can be used to control the vehicle's ignition system, security alarm, horn, lights and trunk. RKEs are also used to control entry to premises and specific areas of buildings, such as garages. While the use of RKE is uncommon on buildings outside of businesses, some home automation and security systems rely on the technology as well.*
 
-# *Features-*
+# Features
 
 ### *1. Print lock – (Blue switch on- All led on at the same time)*
 
