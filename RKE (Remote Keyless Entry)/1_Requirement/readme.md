@@ -52,7 +52,29 @@
 |LLR3.1|As the button pressed all LED'S should get turned on in Anticlockwise manner|LLR4.1|LED'S should glow in a manner Green-->Blue-->Red-->Orange|
 |LLR3.2|System should be Encrypted with masked data|LLR4.2|System should provide Random Data each time to ensure more security |
 
+## SWOT Analysis
+### Strength
+- Remote Keyless car offer a greater challenge to potential thieves.
+- The convenience of a keyless lock makes it easier to get inside your house safely and quickly everytime.
+### Weakness
+- Tendency to loose your key fob where a traditional car could be more easily accessible in these irritating situations.
+- Keyless entry can cost a good bit.
+### Threats
+- One of the threat of keyless entry is "eavesdropping" where signal sent to a haker when driver presses their key fob to unlock the car.
+### Opportunities
+- The demand for Keyless entry system is directly influenced by the automotive production and sales activities across the globe.
 
+4W's And 1'H
+### Who
+- Any person can operate it easily.
+### What
+- Sensor that detects remote keyless key fob within certain range of vehicle.
+### When
+- To remotely lock, unlock and start your vehicles enginne using RF signals.
+### Where
+- It is found in modern vehicles and widely used in automobiles.
+### How 
+- Developed using microcontroller and implemented it.
 
 
 
