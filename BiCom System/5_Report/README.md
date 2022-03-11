@@ -11,7 +11,7 @@
 ### *->low Level Requirements*
 
 ### *3.Architecture*
-### *->Design*
+### *->High level Design for BoCom system*
 ### *->Behavioural Design*
 
 ### *4.Test_plan_output*
@@ -54,12 +54,12 @@
 |LLR3.1|If the switch is pressed three times, ON all LED's in clockwise manner|LLR4.1|If the switch is pressed FOUR times, ON all LED's in anti-clockwise manner|
 
 ### 3.Architecture 
-### ->Design
-### Flow Chart-1
-![me_flow](https://user-images.githubusercontent.com/46984887/157809006-c8c1554d-2f32-4781-a298-2e2993a474a2.PNG)
+## High Level design for (Bicom System) 
+![hld2](https://user-images.githubusercontent.com/89115879/157697128-2ddf3703-20d0-4ebe-9be6-90384660132f.PNG)
+
 
 ### ->Behavioural Design
-### Flow Chart-2
+### Flow Chart
 ![m3_flow_2](https://user-images.githubusercontent.com/46984887/157809196-ce01b88c-75d6-4edb-9293-d24afede6167.PNG)
 
 ### 4.Test_plan_output
