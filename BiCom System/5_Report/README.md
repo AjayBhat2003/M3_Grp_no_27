@@ -34,7 +34,8 @@
 
 ### 2.Requirements
 ### High level requirements
-### |Id|High Level Requirements|
+
+|Id|High Level Requirements|
 |---|-----------------------|
 |HLR1|It shall print window status of the car|
 |HL02|It shall print alarm status of the car|
