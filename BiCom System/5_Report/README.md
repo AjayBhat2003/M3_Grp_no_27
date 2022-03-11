@@ -11,7 +11,7 @@
 ### *->low Level Requirements*
 
 ### *3.Architecture*
-### *->High level Design for BoCom system*
+### *->High level Design for BiCom system*
 ### *->Behavioural Design*
 
 ### *4.Test_plan_output*
