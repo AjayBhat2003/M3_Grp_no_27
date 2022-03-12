@@ -24,7 +24,9 @@
 ### It shall print door status of the car when the blue switch is pressed four times
 
 # Contribution By
-### *Vempalli c s s v vara prasad*
-### *Anju Chavan*
-### *Ajay Bhat*
-### *Ajay Bagodi*
+|SLNO|NAME|CONTRIBUTION|
+|---|---|---|
+|1|Vempalli c s s v vara prasad*|
+|2| *Anju Chavan*|
+|3| *Ajay Bhat*|Functionalities of code, Makefile. HIgh leve; Design| 
+|4| *Ajay Bagodi*|Low level Design |
