@@ -26,7 +26,7 @@
 # Contribution By
 |SLNO|NAME|CONTRIBUTION|
 |---|---|---|
-|1|Vempalli c s s v vara prasad*|
+|1|Vempalli c s s v vara prasad*|Survey Report  |
 |2| *Anju Chavan*|Features,testplan and output ,Requirement|
 |3| *Ajay Bhat*|Functionalities of code, Makefile. HIgh level Design| 
-|4| *Ajay Bagodi*|Low level Design |
+|4| *Ajay Bagodi*|Low level Design |Flow of program execution |
