@@ -64,13 +64,13 @@ int main(void)
 
 	while(1)
 	{
-		case1();				//encryption for window function
+		case1();				
 
-		case2();				//encryption for alarm function
+		case2();			
 
-		case3();				//encryption for car_battery function
+		case3();				
 
-		case4();				//encryption for door function
+		case4();			
 
 	}
 
@@ -82,9 +82,9 @@ void case1(void)
 	{
 		windowstatus();
 	}
-<<<<<<< HEAD
+
 }
-=======
+
 	else
 		goto button1;
 
@@ -218,4 +218,4 @@ void doorstatus(void)
 	delay();
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_13, 0);
 }
->>>>>>> bbbaa5f54a406280c8222ba3663b639454355477
+>
