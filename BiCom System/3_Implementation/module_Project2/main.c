@@ -53,10 +53,7 @@ int main(void)
 	GpioLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
 	GPIO_PeriClockControl(GPIOD, ENABLE);
 	GPIO_Init(&GpioLed);
-	/**
-	 * @brief Setup for Blue Switch
-	 *
-	 */
+	
 	GPIOBtn.pGPIOx = GPIOA;
     GPIOBtn.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_0;
 	GPIOBtn.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_IN;
@@ -81,12 +78,12 @@ int main(void)
 //encryption for window status
 void case1(void)
 {
-	p1:if(GPIO_ReadFromInputPin(GPIOA, GPIO_PIN_NO_0)== BTN_PRESSED)
+	button1:if(GPIO_ReadFromInputPin(GPIOA, GPIO_PIN_NO_0)== BTN_PRESSED)
 	{
 		windowstatus();
 	}
 	else
-		goto p1;
+		goto button;
 
 }
 
