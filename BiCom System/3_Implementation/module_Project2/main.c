@@ -83,7 +83,7 @@ void case1(void)
 		windowstatus();
 	}
 	else
-		goto button;
+		goto button1;
 
 }
 
