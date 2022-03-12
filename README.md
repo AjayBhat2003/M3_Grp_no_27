@@ -27,6 +27,6 @@
 |SLNO|NAME|CONTRIBUTION|
 |---|---|---|
 |1|Vempalli c s s v vara prasad*|
-|2| *Anju Chavan*|Descrption,Features,testplan and output|
+|2| *Anju Chavan*|Description,Features,testplan and output|
 |3| *Ajay Bhat*|Functionalities of code, Makefile. HIgh level Design| 
 |4| *Ajay Bagodi*|Low level Design |
